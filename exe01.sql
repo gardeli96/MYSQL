@@ -25,6 +25,7 @@ where salario >= 2000;
 
 select salrio from tb_colaboradores
 where salariop <= 2000;
+select
 
 
 
